@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "PhoniEx&#x27;s Website",
     "description": "",
-    "home_page_url": "https://phoniexzoe.github.com/OwnWebsite",
-    "feed_url": "https://phoniexzoe.github.com/OwnWebsite/feed.json",
+    "home_page_url": "https://PhoniExZoe.github.com/OwnWebsite",
+    "feed_url": "https://PhoniExZoe.github.com/OwnWebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "Wilson Chen"
