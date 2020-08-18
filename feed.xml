@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>PhoniEx&#x27;s Website</title>
+    <link href="https://phoniexzoe.github.com/OwnWebsite/feed.xml" rel="self" />
+    <link href="https://phoniexzoe.github.com/OwnWebsite" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Wilson Chen</name>
+    </author>
+    <id>https://phoniexzoe.github.com/OwnWebsite</id>
+
+</feed>
